@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoCurrency</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="text_crypto_btc">Crypto: BTC</string>
+    <string name="text_crypto_eth">Crypto: ETH</string>
+</resources>
